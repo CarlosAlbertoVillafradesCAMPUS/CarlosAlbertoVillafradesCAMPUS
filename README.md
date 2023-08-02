@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Carlos Villafrades Pinilla and I'm a Full-Stack Developer, from Colombia</p>
+<p align="center" font-size:"20px">My name is Carlos Villafrades Pinilla and I'm a Full-Stack Developer, from Colombia</p>
 
 ###
 
@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CarlosAlbertoVillafradesCAMPUS/CarlosAlbertoVillafradesCAMPUS/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
